@@ -1,0 +1,5 @@
+package ai.indxo.controller;
+
+public class SpringDockerApplication {
+
+}
